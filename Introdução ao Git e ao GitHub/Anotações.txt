@@ -1,4 +1,15 @@
-Markdown regras
+#Markdown regras
 
 Link download do Git: https://git-scm.com
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+#Typescript
+- https://www.typescriptlang.org
+
+# Flow
+- https://flow.org/en/
+
+#Funções de Primeira Classe e Ordem Maior
+
+#Closure
+- Escopo Global, Escopo de Função e Escopo de Bloco.
