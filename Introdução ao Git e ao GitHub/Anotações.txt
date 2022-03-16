@@ -13,3 +13,4 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 #Closure
 - Escopo Global, Escopo de Função e Escopo de Bloco.
+
