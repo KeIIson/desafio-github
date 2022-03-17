@@ -1,4 +1,4 @@
-(() => {
+//vai retornar os alunos aprovados
   const students = [
     {
       name: "Grace",
@@ -18,8 +18,8 @@
     return studentsList.filter(student => student.grade >= 7);
   }
 
-    console.log(`Aluno aprovado`);
+    console.log('Alunos aprovados');
     console.log(getApprovedStudents(students));
 
-    console.log(`\nLista de Alunos: `)
+    console.log('\nLista de Alunos: ')
     console.log(students);
